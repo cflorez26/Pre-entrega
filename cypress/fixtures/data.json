@@ -1,0 +1,14 @@
+{
+    "products": {
+        "firstProduct": {
+            "name": "Buzo Negro",
+            "unitPrice": 23.76,
+            "quantity": 2
+        },
+        "secondProduct": {
+            "name": "Sweater rosa",
+            "unitPrice": 14.86,
+            "quantity": 1
+        }
+    }
+}
